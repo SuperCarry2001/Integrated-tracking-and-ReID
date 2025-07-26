@@ -3,8 +3,8 @@ This project presents the code for the paper _Integrated Cross-Camera Framework 
 
 In the paper, an approach for Worker Tracking and Robust Re-Identification is proposed, By integrating a YOLO-World detector fine-tuned on construction datasets with an optimized BoT-SORT tracker, the system achieves real-time intra-camera tracking. Additionally, a CLIP-ReID encoder enables robust cross-camera re-identification via Hungarian assignment and ratio-based verification.
 
-![Overview of the Our Method](https://github.com/SuperCarry2001/Voxel-Based-ActionRecognition/raw/main/images/method.png)
-
+- ![Overview of the Our Method](https://github.com/SuperCarry2001/Integrated-tracking-and-ReID/figure1.png)
+- 
 # Updates
 - Setup instructions and pseudocode are released. (2025.7)
 - [Tracking Gradio Demo](https://github.com/NirAharon/BoT-SORT) is released. (2025.7) 
@@ -12,7 +12,7 @@ In the paper, an approach for Worker Tracking and Robust Re-Identification is pr
 # Setup instructions and pipeline
 ## Tracking
 - Git clone [Bot-SORT](https://github.com/NirAharon/BoT-SORT) link for tracking.
-- ![Overview of the Our Method](https://github.com/SuperCarry2001/Voxel-Based-ActionRecognition/raw/main/images/method.png)
+- ![Overview of the Our Method](https://github.com/SuperCarry2001/Integrated-tracking-and-ReID/figure2.png)
 ```
 # pseudocode
 Initialize BoT-SORT (without Re-ID)
@@ -28,7 +28,7 @@ Output results
 
 ## Re-ID
 - Git clone [CLIP-ReID](https://github.com/Syliz517/CLIP-ReID) link for Re-ID.
-- ![Overview of the Our Method](https://github.com/SuperCarry2001/Voxel-Based-ActionRecognition/raw/main/images/method.png)
+- ![Overview of the Our Method](https://github.com/SuperCarry2001/Integrated-tracking-and-ReID/figure3.png)
 ```
 # pseudocode
 Initialize gallery and local-to-global ID mapping
