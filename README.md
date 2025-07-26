@@ -4,7 +4,7 @@ This project presents the code for the paper _Integrated Cross-Camera Framework 
 In the paper, an approach for Worker Tracking and Robust Re-Identification is proposed, By integrating a YOLO-World detector fine-tuned on construction datasets with an optimized BoT-SORT tracker, the system achieves real-time intra-camera tracking. Additionally, a CLIP-ReID encoder enables robust cross-camera re-identification via Hungarian assignment and ratio-based verification.
 
 - ![Overview of the Our Method](https://github.com/SuperCarry2001/Integrated-tracking-and-ReID/raw/main/figure1.png)
-- 
+
 # Updates
 - Setup instructions and pseudocode are released. (2025.7)
 - [Tracking Gradio Demo](https://github.com/NirAharon/BoT-SORT) is released. (2025.7) 
