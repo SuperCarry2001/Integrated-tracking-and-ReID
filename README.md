@@ -12,7 +12,7 @@ In the paper, an approach for Worker Tracking and Robust Re-Identification is pr
 # Setup instructions and pipeline
 ## Tracking
 - Git clone [Bot-SORT](https://github.com/NirAharon/BoT-SORT) link for tracking.
-- ![Overview of the Our Method](https://github.com/SuperCarry2001/raw/main/Integrated-tracking-and-ReID/figure2.png)
+- ![Overview of the Our Method](https://github.com/SuperCarry2001/Integrated-tracking-and-ReID/raw/main/figure2.png)
 ```
 # pseudocode
 Initialize BoT-SORT (without Re-ID)
@@ -28,7 +28,7 @@ Output results
 
 ## Re-ID
 - Git clone [CLIP-ReID](https://github.com/Syliz517/CLIP-ReID) link for Re-ID.
-- ![Overview of the Our Method](https://github.com/SuperCarry2001/raw/main/Integrated-tracking-and-ReID/figure3.png)
+- ![Overview of the Our Method](https://github.com/SuperCarry2001/Integrated-tracking-and-ReID/raw/main/figure3.png)
 ```
 # pseudocode
 Initialize gallery and local-to-global ID mapping
