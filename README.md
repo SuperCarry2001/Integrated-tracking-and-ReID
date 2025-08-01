@@ -7,7 +7,7 @@ In the paper, an approach for Worker Tracking and Robust Re-Identification is pr
 
 # Updates
 - Setup instructions and pseudocode are released. (2025.7)
-- [Tracking Gradio Demo](https://github.com/NirAharon/BoT-SORT) is released. (2025.7) 
+- [Tracking Gradio Demo](https://8863a86cd29c6f674f.gradio.live) is released. (2025.7) 
 
 # Setup instructions and pipeline
 ## Tracking
