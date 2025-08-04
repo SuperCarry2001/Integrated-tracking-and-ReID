@@ -7,7 +7,8 @@ In the paper, an approach for Worker Tracking and Robust Re-Identification is pr
 
 # Updates
 - Setup instructions and pseudocode are released. (2025.7)
-- [Tracking Gradio Demo](https://8863a86cd29c6f674f.gradio.live) is released. (2025.7) 
+- [Tracking Gradio Demo](https://8863a86cd29c6f674f.gradio.live) is released. (2025.7)
+- please know that Gradio sometimes doesn't work, if there is any network error, kindly contact us via zhangjin22@mails.tsinghua.edu.cn
 
 # Setup instructions and pipeline
 ## Tracking
@@ -50,3 +51,4 @@ Here are some great resources we benefit:
 - Konstantinou dataset for tracking worker is from [Konstantinou dataset](https://zenodo.org/records/1218695)
 - CLIP-ReID is from [CLIP-ReID](https://github.com/Syliz517/CLIP-ReID).
 - Konstantinou and Brilakis dataset for Re-ID task is from [Konstantinou and Brilakis dataset](https://zenodo.org/records/839674).
+
